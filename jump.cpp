@@ -10,7 +10,7 @@ int main(){
             break;
         }
         cout<<"go out"<<endl;
-        pmoney=pmoney-300;
+        // pmoney=pmoney-300;
     }
     return 0;
 }
